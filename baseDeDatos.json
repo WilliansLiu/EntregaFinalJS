@@ -1,0 +1,26 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Laptop",
+            "descripcion": "Una laptop de alta calidad con procesador rápido y mucha memoria.",
+            "precio": 800.00,
+            "imagen": "img/laptop.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Celular",
+            "descripcion": "Un celular con una cámara excelente y una gran pantalla.",
+            "precio": 600.00,
+            "imagen": "img/celular.jpeg"
+        },
+        {
+            "id": 3,
+            "nombre": "Auriculares Inalámbricos",
+            "descripcion": "Auriculares con excelente calidad de sonido y batería de larga duración.",
+            "precio": 150.00,
+            "imagen": "img/auriculares.webp"
+        }
+    ]
+}
+
